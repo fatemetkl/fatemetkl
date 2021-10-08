@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fatemeh
 - 👀 I’m interested in Graph Learning and Privacy in Machine Learning
-- 🌱 I’m currently working on a cool research idea and studying my masters at the University of Alberta
+- 🌱 I’m currently working on a cool research idea about collaborative graph learning
 - 💞️ I’m looking to collaborate on graph learning and privacy related projects
 - 📫 You can reach me by email : tavakol1@ualberta.ca
 
